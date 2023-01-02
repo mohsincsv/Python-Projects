@@ -1,6 +1,6 @@
 # Python-Projects
 
-##1. Snake-Game
+## 1. Snake-Game
 
 It's a GUI based Game.
 
@@ -25,6 +25,6 @@ It's a GUI based Game.
   </li>
 </ul>
 
-##2. Tic Tac Toe
+## 2. Tic Tac Toe
 
 It's a GUI based Python Game.
